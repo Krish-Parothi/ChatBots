@@ -1,0 +1,8 @@
+torch
+transformers
+langchain
+langchain-core
+langchain-huggingface
+accelerate
+sentencepiece
+protobuf
